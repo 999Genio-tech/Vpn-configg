@@ -1,7 +1,7 @@
 {
-    "Version": "4",
+    "Version": "5",
     "ReleaseNotes": null,
-    "UrlUpdate": "BOTA O LINK DE ATUALIZAÇÃO",
+    "UrlUpdate": "https://raw.githubusercontent.com/999Genio-tech/Vpn-configg/main/config.json",
     "Sms": null,
     "EmailFeedback": null,
     "UrlContato": null,
@@ -10,7 +10,7 @@
     "UdpPort": "7300;7400;7500;7600;7700;7800;7900",
     "Servers": [
         {
-            "Name": "SERVIDOR BR",
+            "Name": "SERVIDOR AO",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "Netonet.xyz",
