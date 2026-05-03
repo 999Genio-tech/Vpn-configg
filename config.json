@@ -1,0 +1,116 @@
+{
+    "Version": "4",
+    "ReleaseNotes": null,
+    "UrlUpdate": "BOTA O LINK DE ATUALIZAÇÃO",
+    "Sms": null,
+    "EmailFeedback": null,
+    "UrlContato": null,
+    "UrlTermos": null,
+    "CheckUser": null,
+    "UdpPort": "7300;7400;7500;7600;7700;7800;7900",
+    "Servers": [
+        {
+            "Name": "SERVIDOR BR",
+            "TYPE": "premium",
+            "FLAG": "br.png",
+            "ServerIP": "Netonet.xyz",
+            "CheckUser": "",
+            "ServerPort": "22",
+            "SSLPort": "443",
+            "USER": "",
+            "PASS": ""
+        }
+    ],
+    "Networks": [
+        {
+            "Name": "💜VIVO TODOS OS DDD [01] ",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: d1iagcpy84e17z.cloudfront.net [crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "recarga.vivo.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "💜VIVO TODOS OS DDD [02] ",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: d1iagcpy84e17z.cloudfront.net [crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "13.227.126.60",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "❤️CLARO TODOS OS DDD [01]",
+            "FLAG": "claro",
+            "Payload": "GET wss://d1iagcpy84e17z.cloudfront.net/ HTTP/1.1[crlf]Host: assets.clarobrasil.mobi[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "assets.clarobrasil.mobi",
+            "ProxyIP": "assets.clarobrasil.mobi",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "🧡OI TODOS OS DDD [01]",
+            "FLAG": "oi",
+            "Payload": "GET / HTTP/1.1[crlf]Host: d1iagcpy84e17z.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "13.226.52.28",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "🧡OI [01]",
+            "FLAG": "oi",
+            "Payload": "BASELINE-CONTROL ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws[crlf]Sec-Websocket-Extensions: superspeed\n\n",
+            "SNI": "www.hbogo.com.br",
+            "TlsIP": "www.hbogo.com.br",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "🧡OI [02]",
+            "FLAG": "oi",
+            "Payload": "BASELINE-CONTROL wss://oii.gdmhost.ga/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]]",
+            "SNI": "www.hbogo.com.br",
+            "TlsIP": "104.16.53.91",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "💙TIM TODOS OS DDD",
+            "FLAG": "tim",
+            "Payload": "GET / HTTP/1.1[crlf]Host: c6bank.com.br[crlf]Expect: 100-continue[crlf][crlf]GET- / HTTP/1.1[crlf]Host: netonet.xyz[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.19.239.25",
+            "ProxyPort": "80",
+            "Info": "Direct"
+        },
+        {
+            "Name": "💙TIM TODOS OS DDD 02",
+            "FLAG": "tim",
+            "Payload": "GET / HTTP/1.1[crlf]Host: gitlab.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: netonet.xyz[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.16.53.111",
+            "ProxyPort": "80",
+            "Info": "Direct"
+        },
+        {
+            "Name": "💙 TIM DIRECT ",
+            "FLAG": "tim",
+            "Payload": "HTTP/ [crlf][crlf]|[crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "177.67.82.120",
+            "ProxyPort": "",
+            "Info": "Direct"
+        }
+    ]
+}
