@@ -1,11 +1,11 @@
 {
     "Version": "6",
-    "ReleaseNotes": null,
+    "ReleaseNotes": "SEJA BEM VIDO A GENIO VPN 👑",
     "UrlUpdate": "https://raw.githubusercontent.com/999Genio-tech/Vpn-configg/main/config.json",
     "Sms": "O ADM GÊNIO MANDOU NOVA ATUALIZAÇÃO",
-    "EmailFeedback": null,
+    "EmailFeedback": "advanceantonio@gmail.com",
     "UrlContato": null,
-    "UrlTermos": null,
+    "UrlTermos": "este vpn é de uso gratuito use-a bem",
     "CheckUser": null,
     "UdpPort": "7300;7400;7500;7600;7700;7800;7900",
     "Servers": [
